@@ -61,8 +61,8 @@ global.socialm = "GitHub: ABDUL RAHMAN" //ur github or insta name
 global.location = "Egypt, Cairo, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['9660540637980']
-global.ownertag = '9660540637980' //ur tag number
+global.owner = ['201146593819']
+global.ownertag = '201146593819' //ur tag number
 global.botname = '𝙏𝘼𝙍𝙏𝘼𝙂𝙇𝙄𝘼 𝘽𝙊𝙏✩ ٫' //ur bot name
 global.linkz = "https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv" //your theme url which will be displayed on whatsapp
 global.websitex = "https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv" //ur website to be displayed
@@ -118,7 +118,7 @@ global.mess = {
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban:'لقد تم حظرك من قبل المالك اجاكسي ، إذا كنت تريد أن تكون غير محظور ، تواصل مع المالك اجاكسي.',
     nsfw: 'لم يتم تنشيط ميزة nsfw ، يرجى الاتصال بالمسؤول للتفعيل',
-    banChat: 'تم حظر الروبوت في هذه المجموعة ، يرجى الاتصال بالمالك لإلغاء الحظر'
+    banChat: 'تم حظر البوت في هذه المجموعة ، يرجى الاتصال بالمالك لإلغاء الحظر'
 }
     global.limitawal = {
     premium: "Infinity",
